@@ -216,7 +216,13 @@ oxidu uhličitého
 - u většiny organismů není dostatek povrchu (-> plíce, tracheje...)
 - __žábry__
   - jsou po celém těle, ryby zajišťují větší přísun kyslíku svým vlastním pohybem a vířením vody
+- __tracheje__
+  - __DOPLNIT__
 - __plíce__
   - u obojživelníku jsou velice jednoduché -> kombinují plíce a povrchové přijímání kyslíku
   - plíce plazů už jsou členěné, nepotřebují kožní dýchání (mají suchý povrch)
   - ptáci mají mnohem efektivnější plíce (potřebují hodně kyslíku k létání) -> mají vzušné vaky, které posílají vzduch do plic i při výdechu
+  
+# Vylučovací soustava
+= hlavní funkcí je odstraňování dusíkatých splodin
+- ledviny, 
