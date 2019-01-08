@@ -1,4 +1,4 @@
-# Tkáň
+#Tkáň
 = skupina buněk stejné struktury a funkce
 - 4 typy:
   - epitoly
@@ -216,13 +216,58 @@ oxidu uhličitého
 - u většiny organismů není dostatek povrchu (-> plíce, tracheje...)
 - __žábry__
   - jsou po celém těle, ryby zajišťují větší přísun kyslíku svým vlastním pohybem a vířením vody
-- __tracheje__
-  - __DOPLNIT__
 - __plíce__
   - u obojživelníku jsou velice jednoduché -> kombinují plíce a povrchové přijímání kyslíku
   - plíce plazů už jsou členěné, nepotřebují kožní dýchání (mají suchý povrch)
   - ptáci mají mnohem efektivnější plíce (potřebují hodně kyslíku k létání) -> mají vzušné vaky, které posílají vzduch do plic i při výdechu
-  
+
+17.12.2018
+
 # Vylučovací soustava
-= hlavní funkcí je odstraňování dusíkatých splodin
-- ledviny, 
+Funkce:
+  - vylučování odpadních látek
+  - osmoregulační funkce: a) stejná koncentrace solí a vody v těle
+                          b) regulace množství vody a koncentrace iontů v těle
+                          c) udržení homeostézy
+
+Vylučování - odpadní látky:
+  - močovina, soli, kyselina močová, kreatin, žlučová barviva, toxické látky, voda
+
+Evoluce vylučovací soustavy
+  - nejjednodušší organismy -> celým povrchem těla
+  - prvoci -> vakuola
+  - ryby a obojživelníci -> prvoledviny
+  - plazi, ptáci, savci -> pravé ledviny
+
+Dusíkaté zplodiny metabolismu
+- močovina
+  - na 1g vyloučeného dusíku je třeba asi 50 ml vody
+  - na 1 molekulu močoviny je třeba 3 molekul ATP
+  - odpadní látka savců, ryb
+
+- Kyselina močová
+  - na 1g vyloučeného dusíku je třeba asi 10 ml vody
+  - velmi "drahá"
+  - obyvkle u ptáků, suchozemských plazů, hmyzu a suchozemských plžů
+- amoniak
+  - mořské ryby
+
+---
+7.1.2019
+
+# Nervová soustava
+- řídící soustava; přijímá podněty (vnitřní a vnější), vyhodnocuje je a odpovídá na ně
+- funguje na fyzikálním a chemickém principu
+
+__Neuron__
+- tvoří ho:  
+      1. tělo
+      2. dendridy
+      3. axon (neurit)
+      4. synapse
+      5. (mediátory)  
+
+- __*Gliové buňky*__
+  - slouží k výživě neuronů
+
+  - je jich více než nervových

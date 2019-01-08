@@ -1,3 +1,4 @@
+
 ### "Béowulf"
 - autor neznámý
 - osaná staro-angličtinou, mytologické dílo
@@ -39,8 +40,13 @@
     - __Beda Cihodný__
       - "Církevní dějiny Anglů"
     - __Kosmas__
+    - kanovník (správce)
       - "Kronika česká"
-        - latinsky, próza
+        - latinsky, próza, vzniká ve 12. století
+        - zpracoval dějiny českého prostoru, na začátku dějiny univerzální (biblické)
+        - popisuje začátky Čech, legendy (praotec apod.)
+        - končí jeho smrtí (doba knížete Soběslava), konec je opatrnější, odehrává se ještě za jeho života
+        - do jisté míry oslava přemyslovců/církve
 
 
 24.10.2018
@@ -285,3 +291,78 @@
 - 1. část o Luciferovi, který se chce vyrovnat Bohu
 - 2. část ďábel posílá hříšníky aby šířili zlo
 - 3. část Marie Magdalská se zaplétá s ďábly, obrací se zpět na víru
+
+---
+
+12.12.2018
+
+# Literatura českého středověku
+
+## Písemnictvní Velké Moravy
+- kníže Rastislav přijme Cyrila a Metoděje (863)
+  - chtěli christianizovat obyvatele a zvýšit fungování státu a jeho životní úroveň, kulturní výchovná činnost
+  - přinesli staroslověnštinu (jednoduchá)
+  - přeložili:
+    - Evangelia + předmluvy (Obhajoba, Proglas)
+    - v dílech anafora (verše začínají stejným slovem), personifikace, aliterace (opakování typu hlásek),
+    - Metoděj po smrti Cyrila přeložil celý Starý zákon
+    - překládali liturgické spisy (mše)
+    - modlitby, skládány Cyrilem (překlad/skládání)
+    - zpovědní řád
+  - vytvářeli i církevní zákoníky
+    - pro cíkev vytvořili "Nomokánon"
+  - vytvořili "Soudní zákon pro lid"
+    - záměr byl civilizovat současný právní systém
+  - vytvořili cyrilici
+
+### *"Život Konstantinův" a "Život Metodějův"*
+- život Konstantinův je literárně lepší
+- próza
+- cílem žK je obhájit český jazyk
+- na Velkou Moravu byli vyslání -> analýza jejich mise
+- polovina textu jsou rozhovory, méně děje (křesťanství vs islám, judaismus...)
+- nejvíce se ale obraňuje staroslověnský jazyk/křesťanství
+
+---
+Četba: Shakespear - Hamlet, Othello, Král Lear/Macbeth
+složnení děje, výklad 6b
+výklad hry v 16.-17. století a součastnosti 12b
+postavy, místo a děj v historických souvislostech (skutečné postavy apod.) 6b
+navrhněte kostým pro jednu postavu (kresba, A4), aby ladil s charakteristikou postavy 6b
+
+---
+20.12.2018
+
+### *"První Slovanská legenda o Svatém Václavovi"*
+### *"Proložní legenda o Svatém Václavu/Ludmile"*
+  - stručná legenda, vepsána do kalendáře
+
+### *"Utrpení Svatého Václava"*
+
+---
+
+## Petr Chelčický
+- 1390-1460
+- spisovatel, překladatel, neměl vysoké vzdělání (odraz v jeho dílech)
+- psal o náboženských věcech, morálce (pacifista), ovlivněn husitskými válkami
+- člen a zakladatel jednoty bratrské
+- psal traktáty
+- odkazuje na Bibli, dále "Síť pravé víry"
+  - podobenství, alegorie
+### *O boji duchovním*
+  - nechtěl, aby lidé bojovlai měčem, ale duchovně
+  - duchovní boj je přemáhání pokušení
+
+---
+
+4.1.2019
+
+- v 15. století je kulturní jazyk latina
+  - úpadek staroslověnštiny
+- sv. Prokop je zakladatelem Sázavského kláštera
+- vzniká druhá píseň v češtině - __*"Svatý Václave"*__ (12.stol.)
+- vznikají kázání (homilium)
+  - __*"Opatovický homiliář"*__
+- hra __*"Svatojiřšké officium"*__
+  - slavnost, velikonoční oslava + typ představení
+  - latinsky, konec 12. století
