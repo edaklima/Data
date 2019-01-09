@@ -349,7 +349,7 @@ navrhněte kostým pro jednu postavu (kresba, A4), aby ladil s charakteristikou 
 - psal traktáty
 - odkazuje na Bibli, dále "Síť pravé víry"
   - podobenství, alegorie
-### *O boji duchovním*
+### *"O boji duchovním"*
   - nechtěl, aby lidé bojovlai měčem, ale duchovně
   - duchovní boj je přemáhání pokušení
 
@@ -366,3 +366,37 @@ navrhněte kostým pro jednu postavu (kresba, A4), aby ladil s charakteristikou 
 - hra __*"Svatojiřšké officium"*__
   - slavnost, velikonoční oslava + typ představení
   - latinsky, konec 12. století
+
+---
+
+9.1.2019
+
+## 13. století v Čechách
+- doba politického, kulturního... vzestupu
+__Literatura__
+- jazyk latinský (vznik univerzit, fakult...), francouzský, italský, hebrejský a němčina (horníci, ekonomové, řemeslníci <- byli zváni do Čech)
+- *laicizace*
+  - laikové, nebyli to profesionálové
+  - například: studenti, vzdělaní příslušníci šlechtických rodů
+  - __*"Pasionál abatiše Kunhůty"*__
+    - sbírka legend o mučednících
+- *brevíř*
+  - soubor modliteb pro určitý den/čas
+- __*"Legenda Aurea"*__
+  - legendy z celé Evropy
+- převládají poezie a verše
+- próza v biblických textech a textech vzdělanců
+
+### Duchovní lyrika a epika v Čechách
+__*"Kunhůtina modlidba"*__
+
+__*"Spor duše s tělem"*__ (častý žánr sporu)
+
+__*"Apokryf o Jidášovi"*__
+- spojení zrady Jidáše s antickým příběhem Oidipa
+
+__*"Legedna o sv. Jiřím"*__
+- rytířské rysy, zabíjí draka a osvobodí princeznu
+- v druhé části ho popraví
+
+__*"Kronika tak řečeného Dalimila"*__
