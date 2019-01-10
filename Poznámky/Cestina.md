@@ -400,3 +400,6 @@ __*"Legedna o sv. Jiřím"*__
 - v druhé části ho popraví
 
 __*"Kronika tak řečeného Dalimila"*__
+
+<font color="light blue"> Apokryf </font>
+<font color="light blue"> Paralelizace </font>

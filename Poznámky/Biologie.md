@@ -269,5 +269,20 @@ __Neuron__
 
 - __*Gliové buňky*__
   - slouží k výživě neuronů
-
   - je jich více než nervových
+  - vytváří myelinový obal axonů některých nervů (při skleróze se obal rozpadá, následek nesprávné vedení el. impulzů->ztráta koordinace)
+
+9.1.2019
+
+  - __membránový potenciál__
+    - rozdíl napětí na krajích membrány (nerovnoměrné rozložení iontů a stranách plasmatické membrány)
+    - uvnitř membrány je kladný a venku záporný
+    - tento rozdíl udržuje membránový přenašeč zvaný sodíko-draslíková pumpa
+  - hyperpolarizace
+    - zvětšení potenciálu a sodík opouští buňku
+  - depolarizace
+    - snížení membránového potenciálu -> sodík proniká do buňky a potenciál se snižuje
+  - __Akční potenciál__
+    - může vzniknout pouze v axonu
+    - vznikne po dosažení prahového potenciálu
+    - dojde k přepólování membrány, následuje repolarizace (náboje se vrátí)
