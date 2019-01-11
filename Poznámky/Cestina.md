@@ -1,4 +1,3 @@
-
 ### "Béowulf"
 - autor neznámý
 - osaná staro-angličtinou, mytologické dílo
@@ -403,3 +402,18 @@ __*"Kronika tak řečeného Dalimila"*__
 
 <font color="light blue"> Apokryf </font>
 <font color="light blue"> Paralelizace </font>
+
+10.1.2019
+
+## William Shakespear
+- žil na přelomu 17. a 18. století
+- dramatik
+- komedie - Sen noci svatojánské, Zkrocení zlé ženy; tragédie - Macbeth; smíření, fantaskní hry 
+- není o něm mnoho informací
+
+### *Shakespearovi sonety*
+- prvních pár 1598,
+- v prvním vydání 154 sonetů
+Sonety
+  - mají 14 veršů (12 veršů + 2 oddělené [=shakespearovský verš])
+  -
