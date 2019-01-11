@@ -408,7 +408,7 @@ __*"Kronika tak řečeného Dalimila"*__
 ## William Shakespear
 - žil na přelomu 17. a 18. století
 - dramatik
-- komedie - Sen noci svatojánské, Zkrocení zlé ženy; tragédie - Macbeth; smíření, fantaskní hry 
+- komedie - Sen noci svatojánské, Zkrocení zlé ženy; tragédie - Macbeth; smíření, fantaskní hry
 - není o něm mnoho informací
 
 ### *Shakespearovi sonety*
@@ -416,4 +416,16 @@ __*"Kronika tak řečeného Dalimila"*__
 - v prvním vydání 154 sonetů
 Sonety
   - mají 14 veršů (12 veršů + 2 oddělené [=shakespearovský verš])
-  -
+---
+        __JAKO DRAMA:__
+        1. představit jeden starozákonní biblický příběh
+        2. přinést materiály, hudba, ukázka z filmu
+        3. paralelní příběhy, z bible ale v moderní době (film, zkušenost ze života, politika)
+---
+
+11.1.2019
+
+- __Dalimil__
+  - __*Dalimilova kronika*__
+    - obsahuje biblické (univerzální) dějiny; doložené dějiny, které nezažil; dějiny, které zažil on nebo pamětníci
+    - pocházel ze staré české šlechty, kritizuje novinek, které okolo sebe viděl (turnaje, móda...); je nepřátelský k němcům, kteří se stěhovali do Čech
