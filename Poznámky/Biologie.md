@@ -286,3 +286,12 @@ __Neuron__
     - může vzniknout pouze v axonu
     - vznikne po dosažení prahového potenciálu
     - dojde k přepólování membrány, následuje repolarizace (náboje se vrátí)
+
+14.1.2019
+
+- mediátory: acetylcholin, noradrenalin, serotonin, dopamin
+### Evoluce nervový soustav
+1. rozptýlená (difuzní)
+  - na jakýkoliv podnět reaguje celým tělem
+2. radiální (kruhová)
+  - vyskytuje se u živočichá se souměrnou radiální stavbou těla
