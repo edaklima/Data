@@ -53,8 +53,7 @@ __Vikingové__
 __Francie__
 - po vymření Karlovců sedl na trůn Hugo Kapet, rod Kapetovců
 - Ota I., nechal se korunovat na císaře -> založil Svaou říši římskou
--
-27.11.2018
+
 
 - bazilika SV. Václava (kostel ve Staré Boleslavi)
 - __Boleslav I. Krutý Ukrutný__
@@ -71,3 +70,10 @@ __Francie__
 - 1054 - církevní schizma (rozpol řeckokatolické a římskokatolické)
 - 732 bitva u Poitiers
   - Frankové x Arabové -> odražení útoku na Evropu
+
+- v roce 1212 získal Otakar I. od císaře Fridricha II. __Zlatou bulu sicilskou__, která slibovala dědičnost titulu krále z otce na syna
+- __Přemysl Otakar I.__ zahájil řadu panovníků, tzv. __poslední Přemyslovci__, kteří zažili mnoho úspěchů
+  - objevili naleziště stříbra v Kutné Hoře
+- zaměřovali se na jižní Evropu, nejdříve __Václav I.__, pak jeho syn __Přemysl Otakar II.__
+- ten byl nakonec zabit __Rudolfem Habsburským__ v bitvě na Moravském poli
+- Václav II. se stal polským králem, jeho syn Václav III. byl zabit -> 1306 __vymření Přemyslovců po meči__

@@ -429,3 +429,31 @@ Sonety
   - __*Dalimilova kronika*__
     - obsahuje biblické (univerzální) dějiny; doložené dějiny, které nezažil; dějiny, které zažil on nebo pamětníci
     - pocházel ze staré české šlechty, kritizuje novinek, které okolo sebe viděl (turnaje, móda...); je nepřátelský k němcům, kteří se stěhovali do Čech
+
+17.1.2019
+
+### Barokní poezie
+- vzniká na západě kolem r. 1560, ve střední Evropě 1600 <- obecně 17. století
+- "barokní epos" epika, __Torquato Tasso__
+  - hrdina bojuje buď sám se sebou, nebo se zlem - bojuje za duchovní ideál
+  - hrdina jde těžší cestou, ta ale vede k cíli
+- __John Milton__ *"Ztracený ráj"*
+- milostná lyrika
+- duchovní lyrika
+  - mysticko-milostná (dívka/duše hledá Krista)
+  - může být i v epice
+- __J. Schefler__
+  - zaměřoval se na mystickou lyriku
+- __galantní poezie__
+  - působí jako veršovaná filosofie
+- __alamódová poezie__
+- __metafyzická poezie__
+  - anglický manírismus
+  - __J. Donne__
+
+
+## 14. století
+období Lucemburků
+- s nástupem Karla IV. se hodnotí doba jako zlatý věk
+- založení Karlovy Univerzity
+- 
