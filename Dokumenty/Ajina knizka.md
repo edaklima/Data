@@ -1,9 +1,20 @@
 The Mysterious Island by Jules Verne
 
+Autor:
+
+8 February 1828 – 24 March 1905
+He was a french novelist, poet and playwright. Considered one of French major literally authors. Second most translated author in the world, considered "Father of scions fiction"
+
+Books:
+
+Twenty thousand leagues under the sea
+Jorney to the center of the Earth
+Around the world in eighty days
+
 Plot:
 
 War prisoners escape from jail during American Civil War. They escape by hijacking a baloon. Main characters are Cyrus Harding, a railroad engineer; his ex-slave and friend Neb;   Pencroft, sailor;  his adopted son Herbert; and journalist Gideon Spillet. Also with them is Hardings faithful dog, Top.
-On their escape route, they fall from the sky during a thunderstorm, landing close to unhabited island. They manage to get to the island and build a home in a cage. The whole book is abou them trying to survive wilderness of the island. During their stay, they experience bunch of "miracles", done by deus ex machina, which they dont know who he is.
+On their escape route, they fall from the sky during a thunderstorm, landing close to unhabited island. They manage to get to the island and build a home in a cage. The begging is very Robinson like, they are crafting tools, distiling water and making bowls and stuff. The whole book is abou them trying to survive wilderness of the island. For example, they domesticates orangutan, rescue Ayrton, fight his former companions etc. During their stay, they experience bunch of "miracles", for example when they are lost, someone lights fire bacon on the island or when they're fighting the pirates, their ship is destroyed by explosion. Done by deus ex machina, which they dont know who he is and are trying to find him. 
 
 Během pár hodin se Herbert uklidnil. Teď mohli kolonisté v klidu probrat ten incident. Zásah cizího člověka byl zřejmější než-li kdy předtím. Ale jak byl schopný se během noci do Granitové jeskyně dostat? Byla to záhada. Popravdě, jeho postup byl asi tak stejně tajemný, jako byl on sám. Během tohoto dne byl sulfát chininu podáván Herbertovi každé tři hodiny.
 Další den se Herbertův stav zlepšil. Díky nepřetržité péči se dostal z přímého nebezpečí, i když ho pořád doprovázeli občasné horečky. Hlavně díky jemu a jeho silné vůli, naplnila se srdce zbytku posádky opět nadějí.
