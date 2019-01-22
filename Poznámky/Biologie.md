@@ -295,3 +295,13 @@ __Neuron__
   - na jakýkoliv podnět reaguje celým tělem
 2. radiální (kruhová)
   - vyskytuje se u živočichá se souměrnou radiální stavbou těla
+
+21.1.2019
+
+# Hormonální soustava
+- založeno na chemických látkách - hormonech
+- __endokrynní žlázy__
+  - žlázy s vnitřní sekrecí, vylučují hormony
+- hormon je pomalejší než nervová soustava, nějakou dobu trvá než se hormony začnou vylučovat, trvá déle než skončí účinnek
+- inzulin, estrogen, glykogen...
+- 
