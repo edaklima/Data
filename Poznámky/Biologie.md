@@ -304,4 +304,33 @@ __Neuron__
   - žlázy s vnitřní sekrecí, vylučují hormony
 - hormon je pomalejší než nervová soustava, nějakou dobu trvá než se hormony začnou vylučovat, trvá déle než skončí účinnek
 - inzulin, estrogen, glykogen...
-- 
+
+23.1.2019
+
+### u bezobratlých
+- třeba hormon podporující růsta a pučení (nezmar)
+- u některých měkkýšů hormon podporující kladení vajíček
+
+### u hmyzu
+- juvenilní hormon = udržuje organismus v "nedospělém" stavu (stav larvy)
+- ekdyzon = působí proti juventilnímu hormonu a podporuje zakuklení a "dospětí" hmyzu
+  - takzvaný svlékací hormonu
+- feromony = komunikace s vnějším prostředím, třeba u soc. hmyzu
+
+### u obratlovců
+- žlázy s vnitřní sekrecí
+- hypotalamus
+- hypofýza
+- epifýza
+- štítnná žláza & příštitná tělíska é ovlivňují metabolismus
+- brzlík = funkce hlavně v dospívání
+- nadledviny
+- část slinivky břišní = produkce insulinu
+- varlata = produkují testosteron
+- vaječníky = produkují estrogen
+
+# Smyslová soustava
+- 5 smyslů
+- extroreceptory
+- fotoreceptory
+- nocireceptory

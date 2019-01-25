@@ -452,8 +452,35 @@ Sonety
   - __J. Donne__
 
 
-## 14. století
+# 14. století
 období Lucemburků
 - s nástupem Karla IV. se hodnotí doba jako zlatý věk
 - založení Karlovy Univerzity
-- 
+-
+
+23.1.2019
+---
+barokní román - Don Quijote, Dobrodružný simplicius simplicismus
+do 15. února
+analýza hlavní postavy, dobový kontext, barokní rysy
+---
+
+## Dvorská lyrika
+- viz referát
+- Závišova píseň
+
+## Dvorská epika
+- Tristram a Isalda
+
+### Hradecký rukopis
+- bajka o lišce a džbánu
+### Satiry o řemeslnících a konšelích
+- kritice jsou podrobeny ševci, kováři, řezníci, sladovníci, lazebníci, pekaře, konšelé (randí)
+
+- exemplum = krátká próza
+
+### Olomoucké povídky
+### Život Karlův
+
+### Podkonní a žák
+- konec 14. století, vypravěč pobaveně sleduje hádku mezi podkonním a studentem 
