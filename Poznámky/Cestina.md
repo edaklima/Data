@@ -421,6 +421,8 @@ Sonety
         1. představit jeden starozákonní biblický příběh
         2. přinést materiály, hudba, ukázka z filmu
         3. paralelní příběhy, z bible ale v moderní době (film, zkušenost ze života, politika)
+
+        - přečíst si kus v Bibli
 ---
 
 11.1.2019
@@ -459,10 +461,13 @@ období Lucemburků
 -
 
 23.1.2019
+
 ---
+
 barokní román - Don Quijote, Dobrodružný simplicius simplicismus
 do 15. února
 analýza hlavní postavy, dobový kontext, barokní rysy
+
 ---
 
 ## Dvorská lyrika
@@ -472,15 +477,62 @@ analýza hlavní postavy, dobový kontext, barokní rysy
 ## Dvorská epika
 - Tristram a Isalda
 
-### Hradecký rukopis
+### "*Hradecký rukopis*"
 - bajka o lišce a džbánu
-### Satiry o řemeslnících a konšelích
-- kritice jsou podrobeny ševci, kováři, řezníci, sladovníci, lazebníci, pekaře, konšelé (randí)
+
+### "*Satiry o řemeslnících a konšelích*"
+- kritice jsou podrobeny ševci, kováři, řezníci, sladovníci, lazebníci, pekaře, konšelé (radní)
 
 - exemplum = krátká próza
 
-### Olomoucké povídky
-### Život Karlův
+### "*Olomoucké povídky*"
+### "*Život Karlův*"
 
-### Podkonní a žák
-- konec 14. století, vypravěč pobaveně sleduje hádku mezi podkonním a studentem 
+30.1.2019
+
+### "*Podkonní a žák*"
+- konec 14. století, vypravěč pobaveně sleduje hádku mezi podkonním a studentem
+- žánr spor
+
+### "*Nová rada*"
+- alegorická básnická skladba
+- zobrazuje sněm zvířat, král lev
+- zvířata jsou alegoriemi společenských zájmů a vlastností (zv. páv, kůň, orel)
+- žánr RADY, výchovná rada
+
+### "*Svár vody s vínem*"
+- žánr sporu
+- voda vede s vínem spor o tom kdo je důležitější
+
+### __Konrád Waldhauser__
+  - ### "*Postyla studentům*"
+    - zapsané kázání
+  - ### "*Apologie*"
+    - obrana
+
+### __Jan Milíč z Kroměříže__
+- úředník Karla IV.
+- kazatel, latinsky i česky
+- ### "*Nedonošený plod*"
+- ### "*Milosti Boží*"
+- ### "*Knížka o Antikristu*"
+
+### __Matěj z Janova__
+- kritici církve
+- rozlišovali dobrou od špatné
+
+31.1.2019
+
+### __Tomáš ze Štítného__
+- laik, zeman
+- nerozumněl církvi, psal výchově, česky
+- psal hlavně traktáty
+- ### "*Sbor opatovický*"
+- ### "*Knížky šestery o obecných věcech křesťanských*"
+
+# Jan Hus
+- studoval v Prachaticích, poté získává vliv v Praze, stal se rektorem
+- král Václav ho chrání, rozumí si s ním;
+- vystupuje proti odpustkům (vybíral je papež, podílel se ale i Václav)
+- ### "*Knížky o svatokupectví*"
+  - traktát

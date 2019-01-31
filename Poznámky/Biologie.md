@@ -334,3 +334,39 @@ __Neuron__
 - extroreceptory
 - fotoreceptory
 - nocireceptory
+
+30.1.2019
+
+__Proprioreceptory__
+- řadí se mezi interoreceptory a mechanické receptory
+- nacházejí se ve svalech, šlachách, vnitřním uchu
+- bez nich bychom nebyli schopni urdžet jakoukoliv stabilitu
+__Nociceptory__
+- vnějši i vnitřní podněty, chemické i mechanické
+- receptory bolesti
+
+__Rovnovážně polohové ústrojí__
+- nachází se ve vnitřním uchu, udržuje rovnováhu a koordinuje pohyb
+- dělí se na statické (poloha hlavy apod.) a kinetické (pohybové čidlo, rovnováha)
+- *endolymfa* - podle polohy této kapaliny pozná tělo v jaké je poloze
+- *statocysta*
+
+__Sluch__
+- komplex orgánů(zvukovod, bubínek, kladívko...) předává informaci do mozku
+- frekvence 20Hz - 20kHz
+- cvrčci se dorozumívají auto-hypertonickou tekutinou
+
+__Čich__
+- úzce spojené s chutí
+- *Jacobosnův orgán* rozliušuje chemikálie ze vzduchu, například u hadů, umožnujě přijímání čichu i ústy
+- u bezobratlých jsou chemoreceptory na tykadlech
+- nejvyvinutější například u motýlů, žraloků, šelem (pomáhá při pohybu v okolí)
+
+__Chuť__
+- vnímání chemických látek např. ve vodě
+- hlavní orgán jazyk
+- s věkem ubývají chuťové pohárky
+- receptory jsou umístěny po celé ploše jazyka a nesjou rozděleny podle chutí
+
+__Zrak__
+- oko, zrakové nervy...
