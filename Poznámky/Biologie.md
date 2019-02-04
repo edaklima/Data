@@ -370,3 +370,33 @@ __Chuť__
 
 __Zrak__
 - oko, zrakové nervy...
+
+__Termoreceptory__
+- umožňuje vnímat teplo a chlad
+- teplo (pot), chlad (husí kůže)
+- hlavně u hadů, specializují se na teplokrevnou kořist
+
+__Hmat__
+- dotyk, vibrace aj.
+- vnímáme celým povrchem těla, ale i například rohovka oka
+- nejméně citlivá jsou záda, nejvíce konečky prstů
+
+# Rozmnožovací soustava
+
+### Asexualní rozmnožování
+- stačí pouhá mitóza
+- nový jedinec je geneticky zcela shodný s rodičem
+  - geneticky se od sebe neliší
+- výhody:
+  - není třeba partnera
+  - počet potomků je 2x větší
+- typy:
+  - štěpení
+  - fragmentace (rozpad na několik kusů, vznik nových jedinců)
+
+### Sexualní rozmnožování
+- splynutí dvou haploidních gamet dá vznik zygotě
+- sourozenci se od sebe geneticky odlišují
+
+genochorismus vs hermafroditismus
+- různá pohlaví mají různé buňky vs mají stejné buňky, které si ale navzájem vyměňují

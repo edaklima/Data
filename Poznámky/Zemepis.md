@@ -38,3 +38,14 @@ __Sídlo__ = seskupení domů včetně hospodářských objektů a dopravních z
 __Obec__ = administrativní útvar
 
 __Míra urbanizace__ = určuje počet obyvatel žijících ve městě / na vesnici
+
+3.2.2019
+
+# __Města__
+- průmyslová, obchodní, lázeňská...
+- většina měst je polyfunkční
+
+## Urbanizace
+- proces stěhování lidí z vesnic do měst a růst obyvatelstva
+- míra urbanizace = podíl městského obyvaatelstva na celkovém počtu obyvatel
+- v současnosti přes 50%
