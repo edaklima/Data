@@ -400,3 +400,7 @@ __Hmat__
 
 genochorismus vs hermafroditismus
 - různá pohlaví mají různé buňky vs mají stejné buňky, které si ale navzájem vyměňují
+
+**Embryonální vývoj**
+- *rýhování*
+  - zvětšuje se počet buněk, ale velikost zůstává stejná  

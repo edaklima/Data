@@ -536,3 +536,17 @@ analýza hlavní postavy, dobový kontext, barokní rysy
 - vystupuje proti odpustkům (vybíral je papež, podílel se ale i Václav)
 - ### "*Knížky o svatokupectví*"
   - traktát
+
+---
+- ne déle než 20 min
+- souvislosti
+  - představit osobnost, prostor a čas
+- představit 2-3 texty (raní, pozdní apod.), analyzovat text (refrén, vývoj, jazyk)
+- ukázka, ofotit stránky s textem
+---
+
+- ### "*O šesti bludech*"
+  - člověk by se měl řídit biblí, ne tolik podle církve
+- ### "*Postyla*"
+  - sepsané kázání
+- ### "*Dcerka*"
