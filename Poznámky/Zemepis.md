@@ -69,3 +69,16 @@ __Míra urbanizace__ = určuje počet obyvatel žijících ve městě / na vesni
 *Aglomerace* = město a jeho okolí, vzniká funkčním propojením velkoměsta a sídel v jeho okolí (Londýn, Bombaj, Šanghaj)
 *Konurbace* = rozsáhlé urbanizované území vzniklé funkčním propojením více stejně velkých samostatných měst s podobnou funkcí (Randstad Holand, Porůří - Porýní, Slezko)
 *Megalopole* = spojení více konurbací a aglomerací v jeden rozsáhlý celek, výborná infrastruktura (Boston-NewYork-Washington, Tokaido)
+
+14.2.
+
+Velikost měst
+
+1500  | 1900  | 2010
+--|---|--
+Peking  | Lonýdn  | Tokio-Jokahama
+Vijayanagar  | New York  | Soul
+Káhira  | Paříž  | Mexico City
+
+
+V 19. a 20. století v době průmyslové revoluce se největší města nacházela hlavně v Evropě a v Americe, zatím co v současnosti se nachází hlavně v Asii. Do doby průmyslové revoluce se ale největší města také nacházela v Asii, i když byla prolnuta i Evropskými a ostatními městy.

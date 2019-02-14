@@ -548,7 +548,7 @@ analýza hlavní postavy, dobový kontext, barokní rysy
 - ### "*O šesti bludech*"
   - člověk by se měl řídit biblí, ne tolik podle církve
   - sepsané kázání
-  - ### "*Postyla*" 
+  - ### "*Postyla*"
 - ### "*Dcerka*"
 
 13.2.2019
@@ -567,3 +567,22 @@ analýza hlavní postavy, dobový kontext, barokní rysy
 - spor, Tábor je radikální, Havel je umírněný, Václav je katolický stát
 
 ### "*Vyklefice a Bechyně*"
+
+---
+
+14.2.
+
+## Laurence Sterne
+- 1718 - 1768
+- farář, cestovatel, zemřel na tuberkulózu
+- další dílo "*Sentimentální cesta po Francii*", "*Politická romantika*"
+
+### "***Život a názory blahodárného pana Tristrama Shandyho***"
+- 9 dílný román, satirické
+- psal pouze aby se vypsal, "deník", terapeutická funkce
+- velice kreativní s typografií, stylem apod. (vynechává kapitoly, černé stránky, krátké kapitoly, prázdné stránky...)
+- působí jako deník, píše co ho napadne, s pauzami, neuvádí datumy
+- vkládá kázání, básničky
+- obraz Anglie, subjektivní, žertovní, vyskytuje se humor (místy drsný, tragikomický)
+
+---
