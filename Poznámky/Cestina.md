@@ -547,6 +547,23 @@ analýza hlavní postavy, dobový kontext, barokní rysy
 
 - ### "*O šesti bludech*"
   - člověk by se měl řídit biblí, ne tolik podle církve
-- ### "*Postyla*"
   - sepsané kázání
+  - ### "*Postyla*" 
 - ### "*Dcerka*"
+
+13.2.2019
+
+## Husitské období
+- úpad písemnictví, kultury
+- období neustálé války
+
+### "*Jistebnický kancionál*"
+- kancionál, časové písně
+
+### "*Kdož sú boží bojovníci*"
+### "*Budišínský rukopis*"
+### "*Píseň o vítězství u Domažlic*"
+### "*Václav, Havel, Tábor*"
+- spor, Tábor je radikální, Havel je umírněný, Václav je katolický stát
+
+### "*Vyklefice a Bechyně*"

@@ -404,3 +404,21 @@ genochorismus vs hermafroditismus
 **Embryonální vývoj**
 - *rýhování*
   - zvětšuje se počet buněk, ale velikost zůstává stejná  
+
+13.2
+
+  **Porifera**
+  = houbovci
+  - přisedlé mořské organismy
+  - tělo je soubor kanálků a komůrek
+  - intracelulární trávení
+  - gonochoristi nebo hermafroditi
+  - při rozmnožování vypouští oblak samičích gamet
+
+- při nepohlavním rozmnožování vznikají gemule (kulovité shluky buněk, tvoří se u sladkovodních houbovců a vzácně u mořských)
+- slouží v případě ohrožení houbovce
+
+**Cnidaria**
+= žahavci
+- mořští, přisedlí nebo volně plovoucí (vzácně sladkovodní)
+- tělo je radiálně symetrické, s ústním otvorem
