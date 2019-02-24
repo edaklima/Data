@@ -1,6 +1,6 @@
-### "Béowulf"
 - autor neznámý
 - osaná staro-angličtinou, mytologické dílo
+### "Béowulf"
 - příběhy 5. století, psáno 8.-10. století
   - Beowulf je bojovník, bojuje proti lidem i drakům -> v té bitvě umírá
   - odehrává se v Dánsku, Švédsku -> bažiny
@@ -106,7 +106,8 @@
 	- = sv. Boneventura
 		- povolil, že řád může mít majetek
 	- = František z Assisi (12-13.stol)
-		- hlavní osobností františkánů
+
+  	- hlavní osobností františkánů
 		- snažili se reformovat církev, neútočili však na ni jako Hus
 		- -> píseň na bratra Slunce (Slunce ve smyslu boha)
 		- měl kamarádku
