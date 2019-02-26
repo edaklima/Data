@@ -44,3 +44,16 @@ Rudická plošina:
     ponorný systém chodeb a obřích dómů, aktivní průtoková
 
 Primární krasové jevy:
+
+Osnova
+Úvod (oblast)
+Moravský kras
+Stanovení pojmů
+Obecná charakteristika terénu
+Tvary v dané lokalitě
+Pustý žleb
+Suchý žleb
+Rudická plošina
+
+Úvod
+Tato práce se zaměřuje na exokras v Moravském krasu. Moravský kras je oblast v Jihomoravském kraji, přibližně 20 kilometrů severo východně od Brna. Rozléhá se na ploše zhruba 92 kilometrů čtverečních a ukrývá v sobě přes 1100 jeskyní. Stejně tak jako unikátní krasové jevy se zde nachází i rozmanitá fauna a flóra. Moravský kras je již od roku 1956 chráněnou krajinou oblastí a nejvzácnější lokality se nachází ve 14 přírodních rezervací. Jeho tvar formuje pruh devonských vápenců široký od 3 do 6 kilometrů a je dlouhý přibližně 25 kilometrů. Celá oblast je odvodňována hlavně Punkvou, Křtínským potokem a Říčkou. Kras se dělí na tři části, Severní, Střední a Jižní.   

@@ -422,3 +422,12 @@ genochorismus vs hermafroditismus
 = žahavci
 - mořští, přisedlí nebo volně plovoucí (vzácně sladkovodní)
 - tělo je radiálně symetrické, s ústním otvorem
+
+**Medůzovci**
+- všichni mořští
+- žahavá vlákna
+
+**Korálnatci**
+- koloniální
+- tvoří korálové útesy
+- kostra buď endoskelet, nebo exoskelet tvořený uhličitanem vápenatým
