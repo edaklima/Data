@@ -77,3 +77,6 @@ __Francie__
 - zaměřovali se na jižní Evropu, nejdříve __Václav I.__, pak jeho syn __Přemysl Otakar II.__
 - ten byl nakonec zabit __Rudolfem Habsburským__ v bitvě na Moravském poli
 - Václav II. se stal polským králem, jeho syn Václav III. byl zabit -> 1306 __vymření Přemyslovců po meči__
+
+# Naučit se kurfiřty
+  4 světští a 3 církevní 
