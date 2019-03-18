@@ -82,3 +82,41 @@ Káhira  | Paříž  | Mexico City
 
 
 V 19. a 20. století v době průmyslové revoluce se největší města nacházela hlavně v Evropě a v Americe, zatím co v současnosti se nachází hlavně v Asii. Do doby průmyslové revoluce se ale největší města také nacházela v Asii, i když byla prolnuta i Evropskými a ostatními městy.
+
+### Plantáže
+
+**Kakao**
+- 70% světových plantáží v západní Africe
+- největší produkce Pobřeží Slonoviny, Ghana, Indonésie...
+
+**Banány**
+- Ekvádor, Kostarika, Kolumbie...
+
+**Obilnice světa**
+- východ Jižní Ameriky, prérie v Severní Americe, Ukrajina, kus Ruska, Srí Lanka, východ Austrálie
+
+**Těžba - nerostné suroviny**
+- rudy
+  - železných a barevných kovů
+- fosilní paliva
+  - ropa, zemní plyn, uhlí
+- povrchová x hlubinná těžba
+- nerovnoměrně rozmístěné
+- neobnovitelné zdroje
+
+**Ropa**
+- "černé zlato"
+- "palivo" globální ekonomiky
+- neexistuje plnohodnotná náhrada
+- výroba paliv, asfaltu, elektřiny, hnojiv...
+  - petrochemický průmysl
+- 60% spotřeby doprava
+- nová ropná ložiska v hloubce 5-10 km
+
+#### Střední Amerika
+- most mezi Severní a Jižní Amerikou
+- tropické podnebí
+- slabě rozvinutá ekonomika -> převládá monokulturní zemědělství
+- předpoklady pro cestovní ruch, velký význam dopravy (Panama)
+- tropické ovoce (Guatemala, Honduras, Kostarika)
+- cukrová třtina

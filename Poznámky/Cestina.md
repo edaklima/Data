@@ -270,7 +270,7 @@
   - Oráčovi zemře žena, ten chce bojovat se Smrtí, postupem času ale přijde k rozumu, chce se zbavit žalu. Rozsoudit je musí Bůh, uzná pravdu Smrti, Oráč ale sklidí čest
   - Smrt je považována za nejdůležitější prvek na Zemi, obviňuje jí z braní pouze "dobrých" lidí, ty špatné nechává žít
   - stedověké myšlení -> hlavní je posmrtný život, na zemi nemá moc cenu
-  - vztah se vyvinul, Smrt začala Oráče respektovat a vysvětlovat, Bůh má pochopení pro člověka   
+  - vztah se vyvinul, Smrt začala Oráče respektovat a vysvětlovat, Bůh má pochopení pro člověka
 
 ---
 
@@ -586,4 +586,144 @@ analýza hlavní postavy, dobový kontext, barokní rysy
 - vkládá kázání, básničky
 - obraz Anglie, subjektivní, žertovní, vyskytuje se humor (místy drsný, tragikomický)
 
+## Oscar Wilde
+
+### "***Obraz Doriana Graye***"
+postavy:
+  Dorian Gray
+  lord Henry Wotton
+  Basil Hallaward
+
+O autorovi
+- bohém, chytrý, inteligentní, pesimista
+- psal pohádky, ne pro děti
+
+**Dekadence** (= úpadek)
+- pesimistické smýšlení
+- život nemá smysl, obracejí se hodnoty (ošklivé -> krásné)
+- žijí ve vlastním světě dekadence
+
+Děj
+- Anglie, Londýn, 19. století
+- Krásný Dorian se baví s Henrym, ten na něj přenáší pesimistické smýšlení; Dorian si chce vzít Sybilu, pak si to rozmyslí, ona spáchá sebevraždu. Basil na záčátku nakreslí obraz Doriana, obraz stárně místo něj. Párl let poté kvůli tomu Dorian zavraždí Basila, kvůli tomu nakonec on sám spáchá sebevraždu.
+
+---
+
+### konec 19. století
+- vědecko-ekonomická revoluce
+  - lepší život, větší délka života
+  - rozpad západní kultury
+- orientace na Japonsko, Čínu, Ameriku...
+- inspirace "divochy", přírodními národy a jejich uměním...
+
+*art brut*
+  - umění lidí postižených (psychicky, fyzicky)
+
+- zvýšený zájem o minulé kultury (Egypt, Mezopotámie)
+- > odvrat od tradice (realismu)
+- strach, nejistota
+
+směr **symbolismus**
+  - básníci, prozaici, dramatici
+  - symbol nepopisuje, ale odkazuje
+
+směr dekadence
+  - životní styl
+
+směr **novoromantismus**
+
+# Prokletí básníci
+
+## Arthur Rimbaud
+
+### "***Sezóna v pekle***"
+
+### "***Opilý koráb***"
+- báseň
+- loď nemá cíl, je ztracená -> autor se k ní přirovnává
+
+**synestezie**
+= shlukování smyslových vjemů; verš vnímáme vizuálně, zvukově, hmatově...
+
+- básně v próze
+  - lyrická próza
+
+- iluminace
+  - barevný, výtvarný doprovod k textu
+---
+OTÁZKY FAUST
+1) Faust a jeho smlouva s Mefistem; její smysl, proč?
+2) Vztah Fausta a Markétky
+3) Řešení smlouvy; proč není v pekle?
+4) Najděte "Faustovské téma" ve 3 jiných dílech
+5) Malá báseň v próze; 1/3 stránky
+2 A4
+---
+
+13.3.
+## Shopenhauer
+- zemřel 1816
+- pesimista, opozice pro pragmatický optimismus(průmyslová revoluce...)
+- cení si umění jako prostředku pro vyjádření
+
+
+### "**Svět a jeho představa**""
+- svět považuje z anejhorší z možných, všeobecné utrpení, zoufalství, boj všem proti všem, stát musíme mít aby se lidstvo nepovraždilo
+
+### "**Životní moudrost**"
+- člověk má čekat na svůj osud
+- všeobecná soustrast s ostatními
+- nemá rád církev
+
+## Friedrich Nietzse
+- vidí svět pesimisticky
+- opovrhuje demokracií (vláda slabých)
+
+### "**Zrození tragédie z ducha hudby**"
+- 1872, filosoficko-básnické dílo
+- dionýský princip (=vize, tanec, hudba...)
+
+### "**Mimo dobro a zlo**"
+- mimo dělení na tradiční hodnoty
+- objevuje se postava NADČLOVĚKA
+  - možnost, kdy je člověku dáno zastoupit Boha
+  - velké idee, velká energie a vůle
+- myšlenka věčného návratu (histore všech národů je cyklická)
+
+### "**Tak pravil Zaratmuštra**"
+- filosofie a poezie
+- Zaratmuštra byl Iránský prorok, (Zoroaster)
+- pracuje se symboly, s podobenstvími
+- ovlivnil české básníky a prozaiky
+
+## Henri Bergson
+- zemřel 1941
+- odmítá rozum, racionální myšlení
+- klade důraz na energii
+  - Elan Vita (= životní síla)
+- umění je vzpomínka
+
+### "**Vývoj tvořivý**"
+
+---
+## J.K. Huysmans
+- 1848-1907, Francie, Paříž
+- spisovatel, kritik
+- začínal u naturalismu -> symbolismus -> dekadentní autor
+- zájmy o satanismus, magii...
+- vstoupil do kláštera, líbila se mu samota
+- zemřel na rakovinu
+
+Dílo: "*Marta*", "*Tam dole*"
+
+### "***Naruby***"
+- čas příběhu je časem autora
+- hlavní postava - des Essentes
+- děj trvá pár měsíců
+
+Příběh: hl. postava si zařizuje dům, popisuje co a proč to má; má spoustu knih, čte -> vzpomíná; libí se mu na samotě -> musí se odstěhovat do Paříže; konec
+
+- sofistikovaná mluva, je vzdělaný, kritizuje různá díla
+- rozděleno do 16 kapitol
+- považuje přírodu za všední, umělý svět je lepší než ten přírodní (věe co vytvořila příroda my dokážeme lépe)
 ---
