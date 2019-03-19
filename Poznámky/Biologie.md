@@ -260,12 +260,12 @@ Dusíkaté zplodiny metabolismu
 - funguje na fyzikálním a chemickém principu
 
 __Neuron__
-- tvoří ho:  
+- tvoří ho:
       1. tělo
       2. dendridy
       3. axon (neurit)
       4. synapse
-      5. (mediátory)  
+      5. (mediátory)
 
 - __*Gliové buňky*__
   - slouží k výživě neuronů
@@ -403,7 +403,7 @@ genochorismus vs hermafroditismus
 
 **Embryonální vývoj**
 - *rýhování*
-  - zvětšuje se počet buněk, ale velikost zůstává stejná  
+  - zvětšuje se počet buněk, ale velikost zůstává stejná
 
 13.2
 
@@ -431,3 +431,12 @@ genochorismus vs hermafroditismus
 - koloniální
 - tvoří korálové útesy
 - kostra buď endoskelet, nebo exoskelet tvořený uhličitanem vápenatým
+
+---
+
+18.3.
+
+## Mnohobuněční parazité
+
+**Motolice jaterní**
+- ploštěnci

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="15" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Tue Mar 19 08:20:34 2019
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">Eda</m>
+<m key="dc.date">Tue Mar 19 08:16:08 2019
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="2" edit-time="854" last-saved="1552980034" uid="8c6622d6-4a16-11e9-9874-8b55192f31f4">
+<version id="2" started="1552979768" uid="7c797890-4a17-11e9-9874-8b55192f31f4" auto="0" top-xid="11"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="10" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr"><c>Wankelův motor, nebo také rotační motor, je typ spalovacího motoru s jedním rotačním pístem ve tvaru trojúhelníku fungující stejně jako konvenční spalovací motory na principu rozpínání plynu. Používal se především v automobilovém průmyslu, do automobilů ho jako hnací jednotku instalovali firmy jako Citroen, Lada a do nedávna i japonská Mazda.</c></p>
+<p style="Normal" xid="1" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c>Hisotrie</c></p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr"><c>V roce 1951 začala firma NSU Motorenwerke, člen koncernu Volkswagen AG dnes známá jako Audi, vývoj rotačního motoru, který měl být především menší efektivnější než vznětový a zážehový motor. Vývoj vedl Felix Wankel, podle kterého je motor pojmenován, a Hanns Dieter. Každý vytvářel vlastní model, z něhož byl nakonec vybrán jednodušší typ KKM s pevnou hřídelí, okolo níž se otáčel rotor. U Wankelova složitějšího motoru se otáčel píst i válec, každý na jiné ose. To zajišťovalo dobrou stabilitu a vyšší otáčky motoru, byl ale složitější, obsahoval víc součástek, tudíž byl dražší a zároveň byl kvůli umístění svíček mnohonásobně náročnější na údržbu.</c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr"><c>Vývoj doprovázeli problémy, Wankel považoval svůj model za lepší a přesto že nese jeho jméno, pravým vynálezcem byl Hanns Dieter. Wankel si připadal ublíženě a otevřeně ho za jeho model kritizoval. Do roku 1960 se jednalo spíše o experimentální modely. V roce 1960 ale podepsalo NSU smlouvu o společném vývoji s americkou firmou Curtiss-Wright, která nastarovala vývoj v americe a připojila ke smlouvě o vývoji další automobilky včetně Citroenu, Fordu, Mercedesu, Generel Motors a dalších, čímž se vývoj značně urychlil. Přes všechny tyto investice se nakonec jediným výrobcem, který začal používat rotační motory v automobilech v masovém měřítku, stala japonská značka Mazda. Ta ho používala ve všech druzích automobilů, s rostoucí cenou paliva byla ale nakonec donucena s výrobou rotačních motorů skončit. Exkluzivně je dodávala již pouze od jejich sportovních modelů, které si uživatelé velice oblíbili díky jejich specifickému zvuku a vysokým otáčkám. Nakonec ale musela upustit v používání těchto motorů úplně, vzhledem k regulacím Evropské únie požadující nižší emise, které rotační motory v porovnání s benzínovými motory nebyly schopné splnit.</c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr"><c>Princip fungování</c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"><c>Celý motor se skládá ze tří hlavních částí - stacionárního bloku, pístu a hřídele. Jedná se v principu o stejný čtyřdobý cyklus, který používají i klasické spalovací motory.</c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"><c>V první fázi dochází k sání vzduchu do komory, dále ke kompresi, expanzi a výfuku. Proces je to tedy stejný, rotor ho ale dosahuje jiným způsobem. V komoře se nepohybuje válcovitý píst, ale "zakulacené" troúhelníkové těleso, takzvaný rotor, který v komoře stlačí vzduch, svíčka směs zapálí a následná energie expanze přenese energii z rotoru na hřídel. Vzhledem k tomu, že rotor má tvar trojúhelníku, provede za jednu otáčku 3 pracovní cykly. </c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr"><c>Problémy fungování</c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr"><c>Drtivá většina našich automobilů používá buď vznětový, nebo zážehový motor. Proč tedy, i přes to, že je Wankelův motor výkonější a jednodušší na výrobu, dnes v žádných autech rotační motor nenajdeme? Wankelův motor trpní velkými problémy co se spolehlivosti týče. Vrcholy rotoru přestávají po relativně krátké době těsnit a vyžadují generální opravu a nové těsnění, jinak motor ztrácí kompresi. Dále není motor příliš efektivní při spalování paliva, tudíž má i vyšší emise, což je v současné době evropských regulací zásadní problém a rotační motory tak zůstavají zájmem pouze pro nadšence </c></p>
+</section>
+</abiword>

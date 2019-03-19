@@ -727,3 +727,6 @@ Příběh: hl. postava si zařizuje dům, popisuje co a proč to má; má spoust
 - rozděleno do 16 kapitol
 - považuje přírodu za všední, umělý svět je lepší než ten přírodní (věe co vytvořila příroda my dokážeme lépe)
 ---
+
+## Ch. Baudelaire
+- neklidný
