@@ -440,3 +440,41 @@ genochorismus vs hermafroditismus
 
 **Motolice jaterní**
 - ploštěnci
+
+**elefantiáza**
+- slonní nemoc, nádory (otoky) 
+
+**vlasovec oční**
+- tvoří boule, způsobuje slepotu
+
+---
+
+20.3
+
+## Kroužkovci (annelida)
+- tělo je lineární a jednotlivé články se pravidelně opakují
+- tělní stěna je tvořena z vnější okružní a vnitřní podélné svaloviny
+- žížala, pijavice, mnohoštětinatci (mořští) 
+- stejnocenná  seegmentace = všechny články jsou stejnocenné (kromě prvního a posledního) 
+- gangliová soustava
+- hermafrodité vyloučí své sperma vve slizu opasek vyloučí společně
+- sliz se vyměňuje mezi jedinci
+- žížaly mají velké neurovité svazky (nevyvinutý mozek)
+- žížaly tvoří kokon
+- v kokonu jich jsou stovky až tisíce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
