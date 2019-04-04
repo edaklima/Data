@@ -661,13 +661,13 @@ OTÁZKY FAUST
 ---
 
 13.3.
-## Shopenhauer
+### Shopenhauer
 - zemřel 1816
 - pesimista, opozice pro pragmatický optimismus(průmyslová revoluce...)
 - cení si umění jako prostředku pro vyjádření
 
 
-### "**Svět a jeho představa**""
+#### "**Svět a jeho představa**""
 - svět považuje z anejhorší z možných, všeobecné utrpení, zoufalství, boj všem proti všem, stát musíme mít aby se lidstvo nepovraždilo
 
 ### "**Životní moudrost**"
@@ -675,35 +675,35 @@ OTÁZKY FAUST
 - všeobecná soustrast s ostatními
 - nemá rád církev
 
-## Friedrich Nietzse
+### Friedrich Nietzse
 - vidí svět pesimisticky
 - opovrhuje demokracií (vláda slabých)
 
-### "**Zrození tragédie z ducha hudby**"
+#### "**Zrození tragédie z ducha hudby**"
 - 1872, filosoficko-básnické dílo
 - dionýský princip (=vize, tanec, hudba...)
 
-### "**Mimo dobro a zlo**"
+#### "**Mimo dobro a zlo**"
 - mimo dělení na tradiční hodnoty
 - objevuje se postava NADČLOVĚKA
   - možnost, kdy je člověku dáno zastoupit Boha
   - velké idee, velká energie a vůle
 - myšlenka věčného návratu (histore všech národů je cyklická)
 
-### "**Tak pravil Zaratmuštra**"
+#### "**Tak pravil Zaratmuštra**"
 - filosofie a poezie
 - Zaratmuštra byl Iránský prorok, (Zoroaster)
 - pracuje se symboly, s podobenstvími
 - ovlivnil české básníky a prozaiky
 
-## Henri Bergson
+### Henri Bergson
 - zemřel 1941
 - odmítá rozum, racionální myšlení
 - klade důraz na energii
   - Elan Vita (= životní síla)
 - umění je vzpomínka
 
-### "**Vývoj tvořivý**"
+#### "**Vývoj tvořivý**"
 
 ---
 ## J.K. Huysmans
@@ -725,8 +725,147 @@ Příběh: hl. postava si zařizuje dům, popisuje co a proč to má; má spoust
 
 - sofistikovaná mluva, je vzdělaný, kritizuje různá díla
 - rozděleno do 16 kapitol
-- považuje přírodu za všední, umělý svět je lepší než ten přírodní (věe co vytvořila příroda my dokážeme lépe)
+- považuje přírodu za všední, umělý svět je lepší než ten přírodní (svět co vytvořila příroda my dokážeme lépe)
 ---
 
-## Ch. Baudelaire
+### Ch. Baudelaire
 - neklidný
+
+### Paul Verlaine
+- lyrciký básník, Prokletí básníci
+
+#### "***Galantní slavnost ***"
+#### "***Slavnostní básně***"
+
+**impresionismus**
+- zachycení prchavého okamžiku
+- vzešel z vývtvarného umění, je citové, chce něco zachovat
+
+### Stephane Mallarmé
+- Prokletí básníci
+- zakladatel literálního symbolismu
+
+#### "***Faunovo odpoledne***"
+#### "***Vrh kostek nikdy nevyloučí náhodu***"
+- symbolismus
+
+### M. Maeterlinck 
+#### "***Modrý pták***"
+- antické motivy, bohové
+
+### V. J. Brujsov
+
+### Henrik Ibsen
+
+---
+
+21.3.
+
+# Česká literárlní moderna
+- období plurality, rozporu
+- vzniká anarchistické odvětví, antisemitismus
+- mobilizuje se dělnická třída (stávky,...) 
+
+**Česká moderna**
+- seskupení českých literátu, dramatiků, kritiků...
+- vytvořili manifest České Moderny
+- objevuje se hlavně v poezii
+- individualismus, důraz na osobitost, byli proti služebnosti kultury, 
+
+## Antonín Sova
+(1864-1928) 
+- jeho otec učil umění, jako malý byl vnímavý a zvídavý (všímal si přírody, lidských vztahů...) 
+- začal psát už na gymnáziu
+- individualista, důležitý symbolismus, přírodní lyrika, impresionismus
+- psal poezii (*Z mého kraje*, *Zlomená duše*, *Zpěvy domova*, *Údolí nového království*) 
+
+### "***Ještě jednou se vrátíme***"
+- píše o morálních hodnotách, přírodě, počasí...
+- problematické milostné motivy (jemu se rozpadlo manželství)  
+- rozdělné na dvě části
+	- 1. část -> hodně poetické, lyrické
+	- 2. část -> o milencích, ale jako paralela k přírodě, více epické
+	- 3. část -> temnější, lyrické, vzpomínky na jaro, touží po mládí
+
+---
+
+22.3.
+
+## Julius Zeyer (1841-1901) 
+- původně řemeslník
+- cestoval, učil se jazyky,
+- usídlil se ve Voďnanech
+- patřil k **Lumírovcům**, publikoval do časopisu Lumír  
+- próza vyjadřovala smutek, osamocení
+- výrazný představitel neoromantismu ("*Román o Věrném přátelství Amise a Amila*") 
+- poezie ("*Vyšehrad*", "*Karolinské epopeje*")
+
+### "***Tři legendy o krucifixu***"
+- 3 příběhy
+- 1. část je ze 17. století, o tvoření sochy Krista na kříži 
+
+---
+Otázky k četbě - Květy zla, Obraz Doriana Greye
+1) Autorský a společenský kontext 5b 
+2) Jak je kniha uspořádána, části, kapitoly... 6b
+3) Charakterizovat vypravěče/lyrického mluvčího 5b 
+4) Tématické roviny, o čem kniha je, citace 8-10b 
+5) Autorský styl 4-6b 
+---
+
+3.4.
+# Májovci
+
+## Jan Neruda
+
+### "*Hřbitovní kvítí*" 
+- básnická sbírka
+- skeptická, depresivní, melancholická
+
+### "*Knihy veršů*" 
+- knihy veršů epických, lyrických a časových (3 knihy) 
+
+### "*Písně kosmické*"
+- inspirované vesmírem a objevováním vesmíru
+- chce vědou nahradit Boha
+
+### "*Balady a romance*"
+- sestupuje do dějin, českého folklóru, biblická témata převedená do folklóru
+- o Panně Marii, Ježíškovi... 
+
+# Lumírovci
+- Svatopluk Čech ("*Broučci*") 
+- Julius Zeyer (viz výše) 
+
+## Jaroslav Vrchlický (zemřel 1912) 
+- slavný již za svého života
+- studoval gymnázium a teologii, filosofii
+- překládá poezii (Bodlaira, Poea, Huga, Danta, Calderona, Shakespeara, Whitman) 
+- l'art pour l'artismus (umění pro umění) - přináší do Čech kvalitní literaturu
+- parnasismus
+	- vytříbená forma, antické motivy 
+
+
+
+     ---     ---
+          |
+      -_______- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
